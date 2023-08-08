@@ -1,3 +1,3 @@
-Siiri
-black
-pizza
+Name: Siiri
+Favorite color: black
+Favorite food: pizza
